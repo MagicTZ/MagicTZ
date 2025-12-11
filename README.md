@@ -100,5 +100,3 @@ I focus on building robust **Spatial Representations** and **World Models** that
   &nbsp;&nbsp;
   <span id="busuanzi_container_site_uv">🧍 Visitors: <span id="busuanzi_value_site_uv"></span></span>
 </div>
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
