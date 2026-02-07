@@ -9,6 +9,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ## 🔥 News
+- *2026.01*: 🚀🚀 Joined **XPeng (小鹏汽车)** as a Research Intern, working on **VLA** and **World Models**!
 - *2025.12*: 🎉🎉 One Paper accepted to **RA-L 2025**!
 - *2025.10*: 🏆🏆 **Champion** of the **IROS 2025 EvSLAM Challenge**!
 - *2025.06*: 🎉🎉 One Paper accepted to **IROS 2025**!
@@ -17,12 +18,19 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 ---
 
+# 💼 Experience
+
+- **XPeng (小鹏汽车)** *Research Intern (Embodied AI)* | *Jan 2026 – Present*
+  - Researching **Hierarchical Control (Big/Small Brain)** for embodied agents.
+  - Developing **World Models** and **VLA** policies for agile robot manipulation.
+
+---
+
 # 📝 Publications  
 (**\*** denotes equal contribution.)
 
 ### **RA-L 2025**
-**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**  
-[Paper](https://arxiv.org/abs/2506.23207) 
+**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints** [Paper](https://arxiv.org/abs/2506.23207) 
 
 - Proposed a tri-view geometric constraint to stabilize 3DGS in texture-less or repetitive regions.  
 - Achieved tightly-coupled optimization of tracking & mapping for robust outdoor SLAM.
@@ -30,11 +38,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ### **IROS 2025**
-<!-- <div align="center">
-  <img src="images/liu2025iros.png" width="70%">
-</div> -->
-**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**  
-[PDF](https://arxiv.org/abs/2409.11953)
+**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate** [PDF](https://arxiv.org/abs/2409.11953)
 
 - Fuses RGB frames and event cameras for high-speed point tracking.  
 - Ensures tracking robustness under rapid motion.
@@ -42,11 +46,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ### **ICRA 2025**
-<!-- <div align="center">
-  <img src="images/niu2025icra.png" width="70%">
-</div> -->
-**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**  
-[PDF](https://arxiv.org/abs/2409.10925)
+**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement** [PDF](https://arxiv.org/abs/2409.10925)
 
 - Designed a heuristic pose refinement module with 3DGS as dense prior.  
 - Improves long-term relocalization stability.
@@ -54,11 +54,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ### **IROS 2024**
-<!-- <div align="center">
-  <img src="images/tan2024iros.png" width="70%">
-</div> -->
-**TD-NeRF: Truncated Depth Prior for Joint Pose & NeRF Optimization**  
-[PDF](https://arxiv.org/abs/2405.07027)
+**TD-NeRF: Truncated Depth Prior for Joint Pose & NeRF Optimization** [PDF](https://arxiv.org/abs/2405.07027)
 
 - Removes NeRF’s dependency on COLMAP poses via depth priors.  
 - Enables high-quality pose-free NeRF reconstruction.
@@ -85,11 +81,3 @@ I focus on building robust **Spatial Representations** and **World Models** that
 - **Sports**: Football (University Captain), Skiing, Basketball, Taekwondo  
 - **Arts**: Dance, Films  
 - **Travel**: Exploring cultures  
-
----
-
-<div align="center" style="margin-top: 20px;">
-  <span id="busuanzi_container_site_pv">👀 Total Views: <span id="busuanzi_value_site_pv"></span></span>
-  &nbsp;&nbsp;
-  <span id="busuanzi_container_site_uv">🧍 Visitors: <span id="busuanzi_value_site_uv"></span></span>
-</div>
