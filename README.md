@@ -9,6 +9,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ## 🔥 News
+- *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
 - *2026.01*: 🚀🚀 Joined **XPeng (小鹏汽车)** as a Research Intern, working on **VLA** and **World Models**!
 - *2025.12*: 🎉🎉 One Paper accepted to **RA-L 2025**!
 - *2025.10*: 🏆🏆 **Champion** of the **IROS 2025 EvSLAM Challenge**!
