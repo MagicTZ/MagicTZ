@@ -12,7 +12,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 - *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Instrumentation and Measurement(TIM)**!
 - *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
-- *2026.01*: 🚀🚀 Joined **XPeng (小鹏汽车)** as a Research Intern, working on **VLA** and **World Models**!
+- *2026.01*: 🚀🚀 Joined **XPeng (小鹏)** as a Research Intern, working on **VLA** and **World Models**!
 - *2025.12*: 🎉🎉 One Paper accepted to **RA-L 2025**!
 - *2025.10*: 🏆🏆 **Champion** of the **IROS 2025 EvSLAM Challenge**!
 - *2025.06*: 🎉🎉 One Paper accepted to **IROS 2025**!
