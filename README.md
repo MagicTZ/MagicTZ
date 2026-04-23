@@ -9,6 +9,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ## 🔥 News
+- *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Instrumentation and Measurement(TIM)**!
 - *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
 - *2026.01*: 🚀🚀 Joined **XPeng (小鹏汽车)** as a Research Intern, working on **VLA** and **World Models**!
 - *2025.12*: 🎉🎉 One Paper accepted to **RA-L 2025**!
@@ -27,38 +28,42 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 ---
 
-# 📝 Publications  
-(**\*** denotes equal contribution.)
+## 📝 Publications
 
-### **RA-L 2025**
-**TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints** [Paper](https://arxiv.org/abs/2506.23207) 
+- **A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**  
+  *TIM 2026*  
+  Yang Yi, Kunqing Wang, Jinpu Zhang, **Zhen Tan**, Xiangke Wang, Hui Shen, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2503.12527)
 
-- Proposed a tri-view geometric constraint to stabilize 3DGS in texture-less or repetitive regions.  
-- Achieved tightly-coupled optimization of tracking & mapping for robust outdoor SLAM.
+- **TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events**  
+  *CVPR 2026*  
+  Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2603.04989)
 
----
+- **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**  
+  *RA-L 2025*  
+  **Zhen Tan**, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2506.23207)
 
-### **IROS 2025**
-**Tracking Any Point with Frame-Event Fusion Network at High Frame Rate** [PDF](https://arxiv.org/abs/2409.11953)
+- **Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**  
+  *arXiv 2025*  
+  **Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2503.11172)
 
-- Fuses RGB frames and event cameras for high-speed point tracking.  
-- Ensures tracking robustness under rapid motion.
+- **Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**  
+  *IROS 2025*  
+  Jiaxiong Liu, Bo Wang, **Zhen Tan**, Jinpu Zhang, Hui Shen, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2409.11953)
 
----
+- **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**  
+  *ICRA 2025*  
+  Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2409.10925)
 
-### **ICRA 2025**
-**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement** [PDF](https://arxiv.org/abs/2409.10925)
-
-- Designed a heuristic pose refinement module with 3DGS as dense prior.  
-- Improves long-term relocalization stability.
-
----
-
-### **IROS 2024**
-**TD-NeRF: Truncated Depth Prior for Joint Pose & NeRF Optimization** [PDF](https://arxiv.org/abs/2405.07027)
-
-- Removes NeRF’s dependency on COLMAP poses via depth priors.  
-- Enables high-quality pose-free NeRF reconstruction.
+- **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**  
+  *IROS 2024*  
+  **Zhen Tan**, Zongtan Zhou, Yangbing Ge, Zi Wang, Xieyuanli Chen, Dewen Hu  
+  [Paper](https://arxiv.org/abs/2405.07027)
 
 ---
 
