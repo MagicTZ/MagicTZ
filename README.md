@@ -23,7 +23,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 # 💼 Experience
 
-- **XPeng (小鹏汽车)** *Research Intern (Embodied AI)* | *Jan 2026 – Present*
+- **XPeng (小鹏)** *Research Intern (Embodied AI)* | *Jan 2026 – Present*
   - Researching **Hierarchical Control (Big/Small Brain)** for embodied agents.
   - Developing **World Models** and **VLA** policies for agile robot manipulation.
 
