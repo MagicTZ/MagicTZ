@@ -9,6 +9,7 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 ## 🔥 News
+
 - *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Instrumentation and Measurement(TIM)**!
 - *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
 - *2026.01*: 🚀🚀 Joined **XPeng (小鹏汽车)** as a Research Intern, working on **VLA** and **World Models**!
@@ -31,52 +32,54 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ## 📝 Publications
 
 - **A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**  
-  *TIM 2026*  
-  Yang Yi, Kunqing Wang, Jinpu Zhang, **Zhen Tan**, Xiangke Wang, Hui Shen, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2503.12527)
-
+*TIM 2026*  
+Yang Yi, Kunqing Wang, Jinpu Zhang, **Zhen Tan**, Xiangke Wang, Hui Shen, Dewen Hu  
+[Paper](https://arxiv.org/abs/2503.12527)
 - **TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events**  
-  *CVPR 2026*  
-  Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2603.04989)
-
+*CVPR 2026*  
+Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu  
+[Paper](https://arxiv.org/abs/2603.04989)
 - **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**  
-  *RA-L 2025*  
-  **Zhen Tan**, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2506.23207)
-
+*RA-L 2025*  
+**Zhen Tan**, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu  
+[Paper](https://arxiv.org/abs/2506.23207)
 - **Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**  
-  *arXiv 2025*  
-  **Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2503.11172)
-
+*arXiv 2025*  
+**Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Dewen Hu  
+[Paper](https://arxiv.org/abs/2503.11172)
 - **Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**  
-  *IROS 2025*  
-  Jiaxiong Liu, Bo Wang, **Zhen Tan**, Jinpu Zhang, Hui Shen, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2409.11953)
-
+*IROS 2025*  
+Jiaxiong Liu, Bo Wang, **Zhen Tan**, Jinpu Zhang, Hui Shen, Dewen Hu  
+[Paper](https://arxiv.org/abs/2409.11953)
 - **HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**  
-  *ICRA 2025*  
-  Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2409.10925)
-
+*ICRA 2025*  
+Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu  
+[Paper](https://arxiv.org/abs/2409.10925)
 - **TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**  
-  *IROS 2024*  
-  **Zhen Tan**, Zongtan Zhou, Yangbing Ge, Zi Wang, Xieyuanli Chen, Dewen Hu  
-  [Paper](https://arxiv.org/abs/2405.07027)
+*IROS 2024*  
+**Zhen Tan**, Zongtan Zhou, Yangbing Ge, Zi Wang, Xieyuanli Chen, Dewen Hu  
+[Paper](https://arxiv.org/abs/2405.07027)
+
+---
+
+## 🧑‍⚖️ Academic Service
+
+- Served as a reviewer for **IROS**, **ICRA**, **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, and **IEEE Robotics and Automation Letters (RA-L)**.
 
 ---
 
 # 🎖 Honors & Awards
+
 - *2025*, Champion — IROS 2025 EvSLAM Challenge  
 - *2025*, Second-class Scholarship  
 - *2022*, Freshman Scholarship of NUDT (First Prize)  
 - *2021*, Munich Innovation Challenge — 1st Place  
-- *2017*, Remote Sensing Star (Top 10), WHU  
+- *2017*, Remote Sensing Star (Top 10), WHU
 
 ---
 
 # 📖 Educations
+
 - **Ph.D.**, Control Science & Engineering, NUDT (2022–Present)  
 - **M.Sc.**, Geodesy & Geoinformation, TUM (2018–2022)  
 - **B.Eng.**, Photogrammetry & Remote Sensing, WHU (2014–2018)
@@ -84,6 +87,8 @@ I focus on building robust **Spatial Representations** and **World Models** that
 ---
 
 # 💬 Hobbies
+
 - **Sports**: Football (University Captain), Skiing, Basketball, Taekwondo  
 - **Arts**: Dance, Films  
-- **Travel**: Exploring cultures  
+- **Travel**: Exploring cultures
+
