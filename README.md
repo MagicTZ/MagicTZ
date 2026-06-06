@@ -23,7 +23,15 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 # 💼 Experience
 
-- **XPeng (小鹏)** *Research Intern (Embodied AI)* | *Jan 2026 – Present*
+- **XGRIDS (其域创新)** | Research Intern (Spatial Intelligence) | *May 2026 – Present*
+
+  • Researching Spatial Intelligence and 3D World Modeling.
+  • Developing feed-forward 3D reconstruction systems for scalable scene reconstruction.
+  • Exploring 4D reconstruction and dynamic scene representation for spatiotemporal understanding.
+  • Working on large-scale 3D perception, geometric reconstruction, and scene understanding.
+
+- **XPeng (小鹏)** Research Intern (Embodied AI) | *Jan 2026 – May 2026*
+  
   - Researching **Hierarchical Control (Big/Small Brain)** for embodied agents.
   - Developing **World Models** and **VLA** policies for agile robot manipulation.
 
@@ -64,8 +72,14 @@ Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu
 
 ## 🧑‍⚖️ Academic Service
 
-- Served as a reviewer for **IROS**, **ICRA**, **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, and **IEEE Robotics and Automation Letters (RA-L)**.
+**Conference Reviewer**
+- ICRA, IROS
 
+**Journal Reviewer**
+- IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Robotics and Automation Letters (RA-L)
 ---
 
 # 🎖 Honors & Awards
