@@ -23,13 +23,6 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 # 💼 Experience
 
-- **XGRIDS (其域创新)** | Research Intern (Spatial Intelligence) | *May 2026 – Present*
-
-  • Researching Spatial Intelligence and 3D World Modeling.
-  • Developing feed-forward 3D reconstruction systems for scalable scene reconstruction.
-  • Exploring 4D reconstruction and dynamic scene representation for spatiotemporal understanding.
-  • Working on large-scale 3D perception, geometric reconstruction, and scene understanding.
-
 - **XPeng (小鹏)** | Research Intern (Embodied AI) | *Jan 2026 – May 2026*
   
   - Researching Hierarchical Control (Big/Small Brain) for embodied agents.
