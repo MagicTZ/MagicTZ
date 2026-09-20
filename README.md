@@ -59,7 +59,8 @@ My research spans **3D/4D Vision and Spatial Intelligence** — radiance field r
 - **TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events**  
 *CVPR 2026*  
 Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu  
-[Paper](https://arxiv.org/abs/2603.04989)
+[Paper](https://arxiv.org/abs/2603.04989)  
+<img src="images/tapformer_teaser.png" alt="TAPFormer teaser" width="600">
 - **TVG-SLAM: Robust Gaussian Splatting SLAM with Tri-view Geometric Constraints**  
 *RA-L 2025*  
 **Zhen Tan**, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu  
