@@ -1,15 +1,16 @@
 # Hi! I'm **Zhen Tan (谭臻)**
 
-I am currently a Ph.D. candidate at the National University of Defense Technology (NUDT), supervised by [Prof. Dewen Hu (CAS Academician)](https://ieeexplore.ieee.org/author/37271079500) and [Assoc. Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl).
+I am currently an **Algorithm Researcher** at **XGRIDS**, leading the company's research on 4D Reconstruction (4D Gaussian Splatting / World Model), and concurrently a **Postdoctoral Researcher** at **Harbin Institute of Technology, Shenzhen (HITSZ)**, pursuing industry-academia collaborative research.
+I received my Ph.D. from the National University of Defense Technology (NUDT), supervised by [Prof. Dewen Hu (CAS Academician)](https://ieeexplore.ieee.org/author/37271079500) and [Assoc. Prof. Xieyuanli Chen](https://scholar.google.com/citations?user=DvrngV4AAAAJ&hl).
 Previously, I obtained my Master's degree from the Technical University of Munich (TUM), guided by [Prof. Yusheng Xu](https://scholar.google.com/citations?user=U1xaKegAAAAJ&hl=en), and my Bachelor's degree from Wuhan University (WHU).
 
-My research vision aims to bridge **High-Fidelity 3D Vision** (NeRF/3DGS) and **Embodied Intelligence**.  
-I focus on building robust **Spatial Representations** and **World Models** that enable robots to understand and interact with dynamic environments.
+My research spans **3D/4D Vision and Spatial Intelligence** — radiance field reconstruction (NeRF/3DGS), visual SLAM, feed-forward generalizable reconstruction, geometric surface reconstruction, dynamic scene 4D reconstruction, and embodied perception, forming a complete pipeline from scene representation to perception and decision-making.
 
 ---
 
 ## 🔥 News
 
+- *2026.08*: 🚀🚀 Joined **XGRIDS** as an Algorithm Researcher, and started postdoctoral research at **HITSZ**!
 - *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Instrumentation and Measurement(TIM)**!
 - *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
 - *2026.01*: 🚀🚀 Joined **XPeng (小鹏)** as a Research Intern, working on **VLA** and **World Models**!
@@ -23,10 +24,34 @@ I focus on building robust **Spatial Representations** and **World Models** that
 
 # 💼 Experience
 
+- **XGRIDS** | Algorithm Researcher | *Aug 2026 – Present*
+
+  - Leading the company's 4D Reconstruction direction (4DGS / World Model): technical roadmap, core algorithm R&D, and patent/paper pipeline.
+
+- **Harbin Institute of Technology, Shenzhen (HITSZ)** | Postdoctoral Researcher | *Aug 2026 – Present*
+
+  - Researching dynamic scene 4D reconstruction and world models, in industry-academia collaboration with XGRIDS.
+
+- **XGRIDS** | Algorithm Research Intern | *May 2026 – Jul 2026*
+
+  - Investigated 4DGS and World Model techniques; built early algorithm prototypes for dynamic scene 4D reconstruction.
+
 - **XPeng (小鹏)** | Research Intern (Embodied AI) | *Jan 2026 – May 2026*
   
   - Researching Hierarchical Control (Big/Small Brain) for embodied agents.
   - Developing World Models and VLA policies for agile robot manipulation.
+
+- **4DV.ai (视维智能)** | Algorithm Intern | *Jul 2025 – Sep 2025*
+
+  - Researched monocular 4D Gaussian Splatting on iPhone-captured RGB-D data, fusing temporal point tracking for high-fidelity dynamic scene reconstruction.
+
+- **CVLife (上海司岚博科技)** | Algorithm Intern | *Apr 2024 – Jun 2024*
+
+  - Accelerated and deployed a differentiable Gaussian Splatting renderer (40%+ speedup); researched the full 3DGS-to-mesh reconstruction pipeline.
+
+- **LiangDao Intelligence (北京亮道智能)** | Sensor Fusion Algorithm Engineer | *Jan 2021 – Feb 2022*
+
+  - Led development of LiDAR-camera post-fusion algorithms for highway autonomous driving and roadside multi-LiDAR perception fusion.
 
 ---
 
@@ -60,6 +85,27 @@ Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu
 *IROS 2024*  
 **Zhen Tan**, Zongtan Zhou, Yangbing Ge, Zi Wang, Xieyuanli Chen, Dewen Hu  
 [Paper](https://arxiv.org/abs/2405.07027)
+- **Fast Intrinsic-Extrinsic Calibration for Pose-Only Structure-from-Motion**  
+*Remote Sensing 2025*  
+Xichen Tian, Yangbing Ge, **Zhen Tan**, Xieyuanli Chen, Ming Li, Dewen Hu
+- **SLAM新机遇--高斯溅射技术**  
+*中国图象图形学报 2025 (Excellent Paper Award)*  
+**谭臻**, 牛中颜, 张津浦, 陈谢沅澧, 胡德文
+- **Geometric Inconsistency-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**  
+*TVCG, under review*  
+**Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Xindong Lian, Dewen Hu
+- **Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction**  
+*TVCG, under review*  
+Zhengyu Du, **Zhen Tan** (Co-first author), Han Zhang, Dewen Hu, Shuaifeng Zhi, Ping Liu
+- **SSR-GS: Structure-Aware Super-Resolution Gaussian Splatting**  
+*AAAI, under submission*  
+**Zhen Tan**, Shuo Yang, Qi Gao, Jiaxiong Liu, Zhongyan Niu, Jinpu Zhang, Xieyuanli Chen, Dewen Hu
+- **SCS-SLAM: Spatial Consistency-Aware Splatting for Robust Tracking and High-Fidelity Mapping**  
+*Under review*  
+**Zhen Tan**, Xieyuanli Chen, Jiaxiong Liu, Yang Shi, Hui Shen, Dewen Hu
+- **一种基于偏振法向估计的高保真辐射场重建方法及系统**  
+*CN 119379954 B, 2025-03-11 (Invention Patent, 1st among student authors)*  
+National University of Defense Technology. Dewen Hu, **Zhen Tan**, Lei Feng, Lilian Zhang, Ming Li
 
 ---
 
@@ -78,10 +124,16 @@ Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu
 # 🎖 Honors & Awards
 
 - *2025*, Champion — IROS 2025 EvSLAM Challenge  
-- *2025*, Second-class Scholarship  
+- *2025*, Second-class Scholarship for Outstanding Students, NUDT  
 - *2022*, Freshman Scholarship of NUDT (First Prize)  
-- *2021*, Munich Innovation Challenge — 1st Place  
-- *2017*, Remote Sensing Star (Top 10), WHU
+- *2021*, Munich Innovation Challenge — 1st Place (Key Team Member)  
+- *2020/21*, German Chinese Football Championship — Champion  
+- *2018*, "Outstanding Student" Award, Wuhan University  
+- *2017*, Remote Sensing Star (Top 10), WHU  
+- *2017*, Scholarship (Grade B), Wuhan University  
+- *2016*, Hubei Province Collegiate 11-a-side Football League — Champion (Starting Midfielder)  
+- *2016*, "Outstanding Student Scholarship", Wuhan University  
+- *2015*, Advanced Individual, WHU Summer Social Practice; Volunteer, "Rainbow Action" for left-behind children
 
 ---
 
@@ -95,7 +147,7 @@ Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu
 
 # 💬 Hobbies
 
-- **Sports**: Football (University Captain), Skiing, Basketball, Taekwondo  
+- **Sports**: Football (University Captain), Skiing, Basketball, Taekwondo, Martial Arts  
 - **Arts**: Dance, Films  
 - **Travel**: Exploring cultures
 
