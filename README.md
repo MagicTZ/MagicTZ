@@ -11,7 +11,6 @@ My research spans **3D/4D Vision and Spatial Intelligence** — radiance field r
 ## 🔥 News
 
 - *2026.08*: 🚀🚀 Joined **XGRIDS** as an Algorithm Researcher, and started postdoctoral research at **HITSZ**!
-- *2026.03*: 🎉🎉 One Paper accepted to **IEEE Transactions on Instrumentation and Measurement(TIM)**!
 - *2026.02*: 🎉🎉 One Paper accepted to **CVPR 2026**!
 - *2026.01*: 🚀🚀 Joined **XPeng (小鹏)** as a Research Intern, working on **VLA** and **World Models**!
 - *2025.12*: 🎉🎉 One Paper accepted to **RA-L 2025**!
@@ -57,10 +56,6 @@ My research spans **3D/4D Vision and Spatial Intelligence** — radiance field r
 
 ## 📝 Publications
 
-- **A Plug-and-Play Learning-based IMU Bias Factor for Robust Visual-Inertial Odometry**  
-*TIM 2026*  
-Yang Yi, Kunqing Wang, Jinpu Zhang, **Zhen Tan**, Xiangke Wang, Hui Shen, Dewen Hu  
-[Paper](https://arxiv.org/abs/2503.12527)
 - **TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events**  
 *CVPR 2026*  
 Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewen Hu  
@@ -69,10 +64,6 @@ Jiaxiong Liu, **Zhen Tan**, Jinpu Zhang, Yi Zhou, Hui Shen, Xieyuanli Chen, Dewe
 *RA-L 2025*  
 **Zhen Tan**, Xieyuanli Chen, Lei Feng, Yangbing Ge, Shuaifeng Zhi, Jiaxiong Liu, Dewen Hu  
 [Paper](https://arxiv.org/abs/2506.23207)
-- **Uncertainty-Aware Normal-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**  
-*arXiv 2025*  
-**Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Dewen Hu  
-[Paper](https://arxiv.org/abs/2503.11172)
 - **Tracking Any Point with Frame-Event Fusion Network at High Frame Rate**  
 *IROS 2025*  
 Jiaxiong Liu, Bo Wang, **Zhen Tan**, Jinpu Zhang, Hui Shen, Dewen Hu  
@@ -85,27 +76,6 @@ Zhongyan Niu, **Zhen Tan**, Jinpu Zhang, Xueliang Yang, Dewen Hu
 *IROS 2024*  
 **Zhen Tan**, Zongtan Zhou, Yangbing Ge, Zi Wang, Xieyuanli Chen, Dewen Hu  
 [Paper](https://arxiv.org/abs/2405.07027)
-- **Fast Intrinsic-Extrinsic Calibration for Pose-Only Structure-from-Motion**  
-*Remote Sensing 2025*  
-Xichen Tian, Yangbing Ge, **Zhen Tan**, Xieyuanli Chen, Ming Li, Dewen Hu
-- **SLAM新机遇--高斯溅射技术**  
-*中国图象图形学报 2025 (Excellent Paper Award)*  
-**谭臻**, 牛中颜, 张津浦, 陈谢沅澧, 胡德文
-- **Geometric Inconsistency-Guided Gaussian Splatting for Surface Reconstruction from Sparse Image Sequences**  
-*TVCG, under review*  
-**Zhen Tan**, Xieyuanli Chen, Jinpu Zhang, Lei Feng, Xindong Lian, Dewen Hu
-- **Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction**  
-*TVCG, under review*  
-Zhengyu Du, **Zhen Tan** (Co-first author), Han Zhang, Dewen Hu, Shuaifeng Zhi, Ping Liu
-- **SSR-GS: Structure-Aware Super-Resolution Gaussian Splatting**  
-*AAAI, under submission*  
-**Zhen Tan**, Shuo Yang, Qi Gao, Jiaxiong Liu, Zhongyan Niu, Jinpu Zhang, Xieyuanli Chen, Dewen Hu
-- **SCS-SLAM: Spatial Consistency-Aware Splatting for Robust Tracking and High-Fidelity Mapping**  
-*Under review*  
-**Zhen Tan**, Xieyuanli Chen, Jiaxiong Liu, Yang Shi, Hui Shen, Dewen Hu
-- **一种基于偏振法向估计的高保真辐射场重建方法及系统**  
-*CN 119379954 B, 2025-03-11 (Invention Patent, 1st among student authors)*  
-National University of Defense Technology. Dewen Hu, **Zhen Tan**, Lei Feng, Lilian Zhang, Ming Li
 
 ---
 
